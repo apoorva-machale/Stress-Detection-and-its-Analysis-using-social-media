@@ -1,0 +1,2 @@
+We developed a Natural Language Processing application using python which uses Machine Learning and Deep Learning algorithms like Naive Bayes algorithm, Long Short Term memory (LSTM) , Support Vector Machine (SVM) and Text Blob.
+We analysed the twitter tweets to identify the stress level and categorize the tweets based on their hastags and then generate a report to help identify the user and his closed ones about the user's stress level. 
